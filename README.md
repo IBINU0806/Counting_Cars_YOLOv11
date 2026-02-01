@@ -26,10 +26,10 @@ This project leverages cutting-edge computer vision libraries and tools:
 | **Data Ops** | ![NumPy](https://img.shields.io/badge/Numpy-Latest-lightblue) | Efficient array manipulation and numerical computing. |
 
 ## 🎥 Demo Result
-Check out the model in action (Inference snapshot on validation batch):
+Check out the model in action (Real-time Inference):
 
-![Inference Result](assets/val_batch0_pred.jpg)
-*(Note: Bounding boxes show high confidence detection for Cars and Trucks)*
+![Demo Preview](assets/demo.gif)
+*(Note: Colors indicate different vehicle classes and unique tracking IDs)*
 
 ## 📊 Model Evaluation
 The model was trained for 50 epochs using SGD optimizer. Below are the specific performance metrics:
