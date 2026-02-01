@@ -1,0 +1,12 @@
+train: D:/IBINU/Deep_Learning/Projects/counting_cars/train/images
+val: D:/IBINU/Deep_Learning/Projects/counting_cars/valid/images
+
+nc: 4
+names: ['bus', 'car', 'motorbike', 'truck']
+
+roboflow:
+  workspace: ibinu-1f1is
+  project: counting_cars-9jhl3
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/ibinu-1f1is/counting_cars-9jhl3/dataset/3
