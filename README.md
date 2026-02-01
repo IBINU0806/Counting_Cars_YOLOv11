@@ -58,8 +58,8 @@ The dataset is heavily weighted towards personal vehicles, which influences clas
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/Traffic-Detection-YOLOv11.git](https://github.com/your-username/Traffic-Detection-YOLOv11.git)
-   cd Traffic-Detection-YOLOv11
+   git clone [https://github.com/IBINU0806/Counting_Cars_YOLOv11.git](https://github.com/your-username/Traffic-Detection-YOLOv11.git)
+   cd Counting_Cars_YOLOv11
    
 2. **Install dependencies:**
     ```bash
